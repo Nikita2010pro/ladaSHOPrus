@@ -5,17 +5,22 @@
  <h2>Вход<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/855d93c6-ca5f-4878-a33a-8f5a07ab1d67">
   <h2>Каталог товаров<h2> 
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/3f3111a0-6f6b-4d71-b39f-d5e503f558d8">
-    ![image](https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/6c26aa9f-65f4-4819-ad8e-bb0234fe35e5)
-
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/fd8bade1-1c7b-4802-90a0-6d119fd18c83">
-     <h2>Страница товара<h2> 
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/92d5efe2-db18-40fd-87ba-55b2434529db">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/6c26aa9f-65f4-4819-ad8e-bb0234fe35e5">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/0ecc8396-d9aa-47c8-a45f-dee5c7d6ea57">
+  <h2>Страница товара<h2> 
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/75e49dfb-cc63-48ce-bde6-244e17514020">
  <h2>Работа ютуб-плеера<h2> 
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/488dcd7b-ea5c-408e-b6c4-a7778282789c">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/17987675-8860-43a9-9726-8bbf571cc6cb">
    <h2>Работа свайпа в тексте<h2> 
-    <img width="524" alt="Снимок экрана 2024-03-27 в 11 26 20" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/1da20d77-9b91-44ec-89fe-cdc9d2405b9e">
-<img width="523" alt="Снимок экрана 2024-03-27 в 11 27 39" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/05f39e2d-8cc9-4b8f-82f9-b6cd6c408687">
+    <img width="524" alt="Снимок экрана 2024-03-27 в 11 26 20" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/82260478-6547-46d2-82d8-962a99216e04">
+<img width="523" alt="Снимок экрана 2024-03-27 в 11 27 39" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/4b0f3517-6b49-43e5-99b2-cfae261880f3">
+ <h2>Остальные товары<h2> 
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/5c4a4f36-f3bd-455a-a4f9-660d336a92ad">
+
+
+
+
+    
   <h2>Остальные товары<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/5c4a4f36-f3bd-455a-a4f9-660d336a92ad">
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/0a8f9c8e-1803-41ac-88fa-02cdd889898a">
