@@ -5,8 +5,8 @@
  <h2>Вход<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOP/assets/140635378/855d93c6-ca5f-4878-a33a-8f5a07ab1d67">
   <h2>Каталог товаров<h2> 
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/6c26aa9f-65f4-4819-ad8e-bb0234fe35e5">
-<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/0ecc8396-d9aa-47c8-a45f-dee5c7d6ea57">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/98cfe438-a6c4-4b40-8920-2db380d96b4a">
+<img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/297e3a00-91ab-4614-87b0-9445d959a63f">
   <h2>Страница товара<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/75e49dfb-cc63-48ce-bde6-244e17514020">
      <h2>при нажатии на кнопку "лайк" товар добавляется в избранное, а на кнопку "корзина" добавляется в корзину<h2> 
