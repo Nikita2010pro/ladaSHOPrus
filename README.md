@@ -18,7 +18,9 @@
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/da8fff77-9705-4207-97fc-f7485e58299d">
      <h2>Избранное/работа лайка<h2> 
 <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/e3eb5ddc-69dd-40c0-86f2-f8d23058007b">
-    <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/7e8d755b-9944-45d1-89f8-f7263b787358">
+    <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/1c6dbbdd-79c9-42ef-bba6-61c1a5b1dd1b">
+      ![image](https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/1c6dbbdd-79c9-42ef-bba6-61c1a5b1dd1b)
+
  <h2>при нажатии на кнопку "коризина" производится переход к странице корзина<h2> 
 <h2>Коризна/работа корзины<h2> 
  <img width="509" alt="Снимок экрана 2024-03-16 в 11 30 30" src="https://github.com/Dasheeer/ladaSHOPrus/assets/140635378/0fed2360-078f-4452-bb74-e44657c31250">
